@@ -45,6 +45,5 @@ Ingeniero de Sistemas en formación y CTO en **Estud-IA**. Especializado en la c
 
 ### 📬 Conectemos
 
-- **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-usuario)
-- **Portafolio:** [tuweb.dev](https://tu-sitio.com)
-- **Correo:** [tu-correo@dominio.com](mailto:tu-correo@dominio.com)
+- **LinkedIn:** [Tu Perfil]((https://www.linkedin.com/in/hafid-joseph-apaza-sulca-151870224/))
+- **Correo:** [tu-correo@dominio.com](hafidjosephapazasulca@gmail.com)
