@@ -3,7 +3,7 @@
 **Systems Engineer & Technical Lead**  
 CTO and Technical Co-Founder at **Estud-IA**. Specialized in full-stack architectures, high-performance cross-platform applications, and automated systems engineering.
 
-Ayacucho, Peru · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com/HafidJoss) · [Email](mailto:hafid@estud-ia.com)
+Ayacucho, Peru · [LinkedIn](https://www.linkedin.com/in/hafid-joseph-apaza-sulca-151870224/) · [GitHub](https://github.com/HafidJoss) · [Email](hafidjosephapazasulca@gmail.com)
 
 ---
 
