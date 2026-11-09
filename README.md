@@ -60,5 +60,5 @@ Modular backend and multi-tenant portal designed for educational institutions, h
 ## Contact & Links
 
 - **LinkedIn:** [linkedin.com/in/hafid-apaza](https://www.linkedin.com/in/hafid-joseph-apaza-sulca-151870224/)
-- **Direct Contact:** [contacto@tu-dominio.com](hafidjosephapazasulca@gmail.com)
+- **Direct Contact:** [HafidJoseph.com](hafidjosephapazasulca@gmail.com)
 - **Location:** Ayacucho, Peru
